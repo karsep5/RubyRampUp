@@ -1,3 +1,3 @@
 secondCommit4
-master
+master2
 changed after merge
