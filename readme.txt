@@ -1,3 +1,3 @@
-This is a third test
+Branch1Commit1
 Now i am going to stage this file
 changed after merge
