@@ -1,3 +1,3 @@
 secondCommit4
-Now i am going to stage this file
+master
 changed after merge
