@@ -1,3 +1,3 @@
 thirdcommit2
-master
+master2
 changed after merge
