@@ -1,3 +1,3 @@
-secondCommit4
+thirdcommit2
 master
 changed after merge
